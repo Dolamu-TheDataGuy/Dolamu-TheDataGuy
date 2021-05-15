@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dolamu-TheDataGuy
-- 👀 I’m interested in python and Data Analysis
+- 👀 I’m interested in Python and Data Analysis
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on application of data science and machine learning in solving civil engineering problems from the smart cities perspective
 - 📫 How to reach me ...

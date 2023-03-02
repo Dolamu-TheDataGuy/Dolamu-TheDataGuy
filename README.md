@@ -44,7 +44,6 @@
 <a href ="#"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="ShellScript"></a>
 </p>
 
-<h3>Frameworks & Libraries</h3>
 <h3>🗄️ Databases and Cloud Hosting</h3>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white"></a>
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=heroku&logoColor=white"></a>

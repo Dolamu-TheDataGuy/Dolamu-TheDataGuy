@@ -23,8 +23,25 @@
 </div>
 
 <!-- Latest Blog Post -->
-### My Blog Post
+## My Blog Post
 <br />
 <!-- BLOG-POST-LIST:START -->
-- [Python Virtual Environments: The Why, What, and How.](https://medium.com/@oludaredolamu/python-virtual-environments-the-why-what-and-how-8705c50d3ecf?source=rss-4376b4b2e545------2)
+- [Python Virtual Environments: The Why, What, and How.](https://medium.com/@oludaredolamu/python-virtual-environments-the-why-what-and-how-8705c50d3ecf)
 <!-- BLOG-POST-LIST:END -->
+
+<!-- Favourite Tools -->
+## My Favorite Tools
+<h3>Programming Languages</h3>
+<p>
+<a href ="#"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
+<a href ="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+<a href ="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
+<a href ="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+<a href ="#"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"></a>
+<a href ="#"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="ShellScript"></a>
+<a href ="#"><img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"></a>
+</p>
+
+<h3>Frameworks & Libraries</h3>
+<h3>Data & Cloud Hosting</h3>
+<h3>Programming Languages</h3>

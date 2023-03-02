@@ -1,4 +1,11 @@
-# Hi there I'm Dolamu!
+<!-- Intro Section  -->
+<div id="intro-img" align="center">
+<a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width=100></a>
+</div>
+<div id="about-me" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Dolamu+Oludare;It's+nice+to+meet+you!;I+am+a+full+stack+Software+and+Data+developer" alt="Typing SVG" /></a>
+</div>
+
 
 <img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=Dolamu-TheDataGuy&theme=dark&show_icons=true" />
 

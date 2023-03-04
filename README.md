@@ -29,6 +29,7 @@
 - [Python Virtual Environments: The Why, What, and How.]("https://medium.com/@oludaredolamu/python-virtual-environments-the-why-what-and-how-8705c50d3ecf")
 <!-- BLOG-POST-LIST:END -->
 
+- [Python Virtual Environments: The Why, What, and How.]("https://medium.com/@oludaredolamu/python-virtual-environments-the-why-what-and-how-8705c50d3ecf")
 
 <!-- Favourite Tools -->
 ## My Favorite Tools

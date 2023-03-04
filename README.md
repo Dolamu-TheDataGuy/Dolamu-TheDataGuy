@@ -26,7 +26,6 @@
 ## My Blog Post
 <br />
 <!-- BLOG-POST-LIST:START -->
-- [Python Virtual Environments: The Why, What, and How.](https://medium.com/@oludaredolamu/python-virtual-environments-the-why-what-and-how-8705c50d3ecf?source=rss-4376b4b2e545------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Favourite Tools -->

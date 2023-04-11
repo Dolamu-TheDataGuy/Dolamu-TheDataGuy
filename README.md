@@ -25,6 +25,7 @@
 <!-- Latest Blog Post -->
 ## My Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Functions: An Innovators Way of Life.](https://medium.com/@oludaredolamu/functions-an-innovators-way-of-life-1feaa52f7d78?source=rss-4376b4b2e545------2)
 - [Python Virtual Environments: The Why, What, and How.](https://medium.com/@oludaredolamu/python-virtual-environments-the-why-what-and-how-8705c50d3ecf?source=rss-4376b4b2e545------2)
 <!-- BLOG-POST-LIST:END -->
 

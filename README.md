@@ -25,11 +25,11 @@
 <!-- Latest Blog Post -->
 ## My Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Loops in Programming.](https://levelup.gitconnected.com/loops-in-programming-ec7c180ac66?source=rss-4376b4b2e545------2)
 - [Pointers in Computing and Its Applications](https://ai.plainenglish.io/pointers-in-computing-and-its-applications-d57812c34b56?source=rss-4376b4b2e545------2)
 - [Web Scraping All-Time English Premier League Table Data Using Python &lpar;Part 2&rpar;.](https://medium.com/towards-data-engineering/web-scraping-all-time-english-premier-league-table-data-using-python-part-2-995636d2cb8a?source=rss-4376b4b2e545------2)
 - [Web Scraping All-Time English Premier League Table Data Using Python &lpar;Part 1&rpar;.](https://medium.com/towards-data-engineering/web-scraping-all-time-english-premier-league-table-data-using-python-part-1-9c052fa0e333?source=rss-4376b4b2e545------2)
 - [Understanding the “and” &amp; “or” operators in Python.](https://medium.com/@oludaredolamu/understanding-the-and-or-operators-in-python-6ac985f9b417?source=rss-4376b4b2e545------2)
-- [Python Scopes from a Closer Lens](https://python.plainenglish.io/python-scopes-from-a-closer-lens-53d349b2b3f5?source=rss-4376b4b2e545------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Favourite Tools -->

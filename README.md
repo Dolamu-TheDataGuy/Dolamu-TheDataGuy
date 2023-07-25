@@ -25,11 +25,11 @@
 <!-- Latest Blog Post -->
 ## My Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Building a WebScraper CLI with Python Click module.](https://medium.com/@oludaredolamu/building-a-webscraper-cli-with-python-click-module-73dd9cb8ca31?source=rss-4376b4b2e545------2)
 - [Data Security with Environment Variables and Code Modularization.](https://levelup.gitconnected.com/data-security-with-environment-variables-and-code-modularization-4f54aed5f08f?source=rss-4376b4b2e545------2)
 - [Handling Errors and Exceptions in Python: A Dimension of Debugging.](https://python.plainenglish.io/handling-errors-and-exceptions-in-python-a-dimension-of-debugging-ce8c104e3194?source=rss-4376b4b2e545------2)
 - [Connecting to an AWS Elastic Compute Cloud &lpar;EC2&rpar;  Instance Server with SSH](https://medium.com/@oludaredolamu/connecting-to-an-aws-elastic-compute-cloud-ec2-instance-server-with-ssh-1e46336ca9ff?source=rss-4376b4b2e545------2)
 - [Loops in Programming.](https://levelup.gitconnected.com/loops-in-programming-ec7c180ac66?source=rss-4376b4b2e545------2)
-- [Pointers in Computing and Its Applications](https://ai.plainenglish.io/pointers-in-computing-and-its-applications-d57812c34b56?source=rss-4376b4b2e545------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Favourite Tools -->

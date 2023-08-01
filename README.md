@@ -25,7 +25,7 @@
 <!-- Latest Blog Post -->
 ## My Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [Configuring an Integrated Development Environment on AWS.](https://medium.com/@oludaredolamu/configuring-an-integrated-development-environment-on-aws-84f7150314fd?source=rss-4376b4b2e545------2)
+- [Configuring an Integrated Development Environment on AWS.](https://medium.com/towards-data-engineering/configuring-an-integrated-development-environment-on-aws-84f7150314fd?source=rss-4376b4b2e545------2)
 - [Building a WebScraper CLI with Python Click module.](https://medium.com/@oludaredolamu/building-a-webscraper-cli-with-python-click-module-73dd9cb8ca31?source=rss-4376b4b2e545------2)
 - [Data Security with Environment Variables and Code Modularization.](https://levelup.gitconnected.com/data-security-with-environment-variables-and-code-modularization-4f54aed5f08f?source=rss-4376b4b2e545------2)
 - [Handling Errors and Exceptions in Python: A Dimension of Debugging.](https://python.plainenglish.io/handling-errors-and-exceptions-in-python-a-dimension-of-debugging-ce8c104e3194?source=rss-4376b4b2e545------2)

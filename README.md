@@ -25,11 +25,11 @@
 <!-- Latest Blog Post -->
 ## My Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Basic File Formats for Data Transportation Part 1.](https://medium.com/@oludaredolamu/basic-file-formats-for-data-transportation-part-1-df3cc8f19cc1?source=rss-4376b4b2e545------2)
 - [Integrating Changes in Version Control Systems: Git Merge vs Git Rebase](https://medium.com/@oludaredolamu/integrating-changes-in-version-control-systems-git-merge-vs-git-rebase-bbbcf89b1eb0?source=rss-4376b4b2e545------2)
 - [Provisioning Elastic Compute Cloud Instances in a Multi-Virtual Private Cloud &lpar;VPC&rpar; Architecture.](https://medium.com/@oludaredolamu/provisioning-elastic-compute-cloud-instances-in-a-multi-virtual-private-cloud-vpc-architecture-ff34ef10754d?source=rss-4376b4b2e545------2)
 - [IP Addresses, Networks, and Subnets: The Internet Mechanisms of Communication.](https://medium.com/@oludaredolamu/ip-addresses-networks-and-subnets-the-internet-mechanisms-of-communication-e01feeae4800?source=rss-4376b4b2e545------2)
 - [Configuring an Integrated Development Environment on AWS.](https://medium.com/towards-data-engineering/configuring-an-integrated-development-environment-on-aws-84f7150314fd?source=rss-4376b4b2e545------2)
-- [Building a WebScraper CLI with Python Click module.](https://medium.com/@oludaredolamu/building-a-webscraper-cli-with-python-click-module-73dd9cb8ca31?source=rss-4376b4b2e545------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Favourite Tools -->

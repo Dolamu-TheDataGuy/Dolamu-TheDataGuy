@@ -25,11 +25,11 @@
 <!-- Latest Blog Post -->
 ## My Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Dockerize Your Databases: A Step-by-Step Guide to MySQL Containerization](https://medium.com/@oludaredolamu/dockerize-your-databases-a-step-by-step-guide-to-mysql-containerization-8dc2deabeebd?source=rss-4376b4b2e545------2)
+- [An In-Depth Look at Global Population Trends in 2023.](https://medium.com/@oludaredolamu/exploring-global-population-trends-in-2023-af7b2068bcf9?source=rss-4376b4b2e545------2)
 - [Docker and Virtual Machines: Advancements of Virtual Environments.](https://medium.com/towards-data-engineering/docker-and-virtual-machines-advancements-of-virtual-environments-fae1c752e101?source=rss-4376b4b2e545------2)
 - [Beautifying Python Functions with Decorators](https://python.plainenglish.io/beautifying-python-functions-with-decorators-f488baa25982?source=rss-4376b4b2e545------2)
 - [Basic File Format for Data Transportation Part 2.](https://medium.com/@oludaredolamu/basic-file-transportation-format-part-2-1d0a9b6b6ea4?source=rss-4376b4b2e545------2)
-- [Basic File Formats for Data Transportation Part 1.](https://medium.com/@oludaredolamu/basic-file-formats-for-data-transportation-part-1-df3cc8f19cc1?source=rss-4376b4b2e545------2)
-- [Integrating Changes in Version Control Systems: Git Merge vs Git Rebase](https://medium.com/@oludaredolamu/integrating-changes-in-version-control-systems-git-merge-vs-git-rebase-bbbcf89b1eb0?source=rss-4376b4b2e545------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Favourite Tools -->

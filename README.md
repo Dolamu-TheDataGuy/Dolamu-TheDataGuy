@@ -25,11 +25,11 @@
 <!-- Latest Blog Post -->
 ## My Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Building a Music Player Application Framework with Python.](https://medium.com/@oludaredolamu/building-a-music-player-application-framework-with-python-88fed1b53b98?source=rss-4376b4b2e545------2)
 - [Harnessing the Power of Python Generators: A Comprehensive Guide.](https://medium.com/@oludaredolamu/harnessing-the-power-of-python-generators-a-comprehensive-guide-df088f846f5e?source=rss-4376b4b2e545------2)
 - [Python Print Function Vs. Return statement: Extracting the Nuances.](https://python.plainenglish.io/python-print-function-vs-return-statement-extracting-the-nuances-88cdfe11c645?source=rss-4376b4b2e545------2)
 - [Version Control System on AWS: Enhancing Collaboration and Efficiency.](https://blog.devgenius.io/version-control-system-on-aws-enhancing-collaboration-and-efficiency-456cb3add663?source=rss-4376b4b2e545------2)
 - [Building a Small-Scale ELT Pipeline with Python and Sqlite3.](https://python.plainenglish.io/building-a-small-scale-elt-pipeline-with-python-and-sqlite3-be1f5c698a1c?source=rss-4376b4b2e545------2)
-- [Dockerize Your Databases: A Step-by-Step Guide to MySQL Containerization](https://medium.com/towards-data-engineering/dockerize-your-databases-a-step-by-step-guide-to-mysql-containerization-8dc2deabeebd?source=rss-4376b4b2e545------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Favourite Tools -->

@@ -14,7 +14,7 @@
 <a href="oludaredolamu@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
 </a>
-<a href="#">
+<a href="[#](https://www.linkedin.com/in/dolamu-oludare-76097b133/)">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 <a href="#">

@@ -25,11 +25,11 @@
 <!-- Latest Blog Post -->
 ## My Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the PATH Variable in Linux](https://medium.com/towards-data-engineering/understanding-the-path-variable-in-linux-2e4bcbe47bf5?source=rss-4376b4b2e545------2)
 - [Debugging a Dockerfile for Containerizing a Node.js API.](https://medium.com/@oludaredolamu/debugging-a-dockerfile-for-containerizing-a-node-js-api-62bc7ec8f339?source=rss-4376b4b2e545------2)
 - [Probabilistic Modeling for Building Machine Learning Systems.](https://ai.plainenglish.io/probabilistic-modeling-for-building-machine-learning-systems-cb800cd748f8?source=rss-4376b4b2e545------2)
 - [Running a PostgreSQL and Pgadmin4 Instance using Docker Compose.](https://medium.com/towards-data-engineering/running-a-postgresql-and-pgadmin4-instance-using-docker-compose-c6dd6e6e03bb?source=rss-4376b4b2e545------2)
 - [A Pointer to a Pointer in C: Foundation for Multidimensional Arrays.](https://blog.devgenius.io/a-pointer-to-a-pointer-in-c-foundation-for-multidimensional-arrays-c537d1f10bf8?source=rss-4376b4b2e545------2)
-- [Building a Music Player Application Framework with Python.](https://python.plainenglish.io/building-a-music-player-application-framework-with-python-88fed1b53b98?source=rss-4376b4b2e545------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Favourite Tools -->

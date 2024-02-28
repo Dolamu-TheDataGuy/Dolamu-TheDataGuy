@@ -25,7 +25,7 @@
 <!-- Latest Blog Post -->
 ## My Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [Satisfying my Curiosity on the Mechanics of the Python Print Function](https://medium.com/@oludaredolamu/satisfying-my-curiosity-on-the-mechanics-of-the-python-print-function-d3314d9a4479?source=rss-4376b4b2e545------2)
+- [Satisfying my Curiosity on the Mechanics of the Python Print Function](https://python.plainenglish.io/satisfying-my-curiosity-on-the-mechanics-of-the-python-print-function-d3314d9a4479?source=rss-4376b4b2e545------2)
 - [Regular Expressions: An Art of Manipulating Strings.](https://medium.com/towards-data-engineering/regular-expressions-an-art-of-manipulating-strings-642aa5cf94f3?source=rss-4376b4b2e545------2)
 - [Understanding the PATH Variable in Linux](https://medium.com/towards-data-engineering/understanding-the-path-variable-in-linux-2e4bcbe47bf5?source=rss-4376b4b2e545------2)
 - [Debugging a Dockerfile for Containerizing a Node.js API.](https://medium.com/@oludaredolamu/debugging-a-dockerfile-for-containerizing-a-node-js-api-62bc7ec8f339?source=rss-4376b4b2e545------2)

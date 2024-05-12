@@ -25,7 +25,7 @@
 <!-- Latest Blog Post -->
 ## My Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [The Basics of the Linux](https://medium.com/towards-data-engineering/the-basics-of-the-linux-4aafe11ed50e?source=rss-4376b4b2e545------2)
+- [The Basics of Linux](https://medium.com/towards-data-engineering/the-basics-of-the-linux-4aafe11ed50e?source=rss-4376b4b2e545------2)
 - [Optimizing Python Codes with Comprehensions](https://python.plainenglish.io/optimizing-python-codes-with-comprehensions-1f683d6473e1?source=rss-4376b4b2e545------2)
 - [The Difference between the “is” and “==” Operator in Python.](https://python.plainenglish.io/the-difference-between-the-is-and-operator-in-python-3e5ca85c45d6?source=rss-4376b4b2e545------2)
 - [Exploring Pointers and Functions in C](https://levelup.gitconnected.com/exploring-pointers-and-functions-in-c-bf24131d33fa?source=rss-4376b4b2e545------2)

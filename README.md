@@ -25,11 +25,11 @@
 <!-- Latest Blog Post -->
 ## My Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Concept of Recursion with Python](https://medium.com/@oludaredolamu/understanding-the-concept-of-recursion-with-python-dd9866b9b180?source=rss-4376b4b2e545------2)
 - [Scientific Computing: Solving a Birthday Probability Problem with Python.](https://python.plainenglish.io/scientific-computing-solving-a-birthday-probability-problem-with-python-efe8e994a535?source=rss-4376b4b2e545------2)
 - [Version Control Automation with Git Hooks](https://medium.com/@oludaredolamu/version-control-automation-with-git-hooks-963898ddee04?source=rss-4376b4b2e545------2)
 - [The Basics of Linux](https://medium.com/towards-data-engineering/the-basics-of-the-linux-4aafe11ed50e?source=rss-4376b4b2e545------2)
 - [Optimizing Python Codes with Comprehensions](https://python.plainenglish.io/optimizing-python-codes-with-comprehensions-1f683d6473e1?source=rss-4376b4b2e545------2)
-- [The Difference between the “is” and “==” Operator in Python.](https://python.plainenglish.io/the-difference-between-the-is-and-operator-in-python-3e5ca85c45d6?source=rss-4376b4b2e545------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Favourite Tools -->

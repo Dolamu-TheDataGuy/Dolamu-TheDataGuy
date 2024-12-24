@@ -25,11 +25,11 @@
 <!-- Latest Blog Post -->
 ## My Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Bookbot with Python](https://medium.com/towards-data-engineering/i-built-a-bookbot-with-python-ad58039df422?source=rss-4376b4b2e545------2)
 - [Building a Flight Deal Finder Project with Python](https://medium.com/towards-data-engineering/building-a-flight-deal-finder-project-with-python-3bfb51cd236e?source=rss-4376b4b2e545------2)
 - [Built a Gradient Descent Algorithm for Linear Regression from Scratch with Python.](https://ai.plainenglish.io/built-a-gradient-descent-algorithm-for-linear-regression-with-python-cbd1671b4190?source=rss-4376b4b2e545------2)
 - [Understanding the Concept of Recursion with Python](https://python.plainenglish.io/understanding-the-concept-of-recursion-with-python-dd9866b9b180?source=rss-4376b4b2e545------2)
 - [Scientific Computing: Solving a Birthday Probability Problem with Python.](https://python.plainenglish.io/scientific-computing-solving-a-birthday-probability-problem-with-python-efe8e994a535?source=rss-4376b4b2e545------2)
-- [Version Control Automation with Git Hooks](https://medium.com/towards-data-engineering/version-control-automation-with-git-hooks-963898ddee04?source=rss-4376b4b2e545------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Favourite Tools -->

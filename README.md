@@ -25,7 +25,7 @@
 <!-- Latest Blog Post -->
 ## My Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Functional Programming: First Class Functions Vs Higher Order Functions](https://medium.com/@oludaredolamu/a-guide-to-functional-programming-first-class-functions-vs-higher-order-functions-0850e4421457?source=rss-4376b4b2e545------2)
+- [A Guide to Functional Programming: First Class Functions Vs Higher Order Functions](https://python.plainenglish.io/a-guide-to-functional-programming-first-class-functions-vs-higher-order-functions-0850e4421457?source=rss-4376b4b2e545------2)
 - [A Guide to Functional Programming: Pure Vs Impure Functions](https://python.plainenglish.io/a-guide-to-functional-programming-pure-vs-impure-functions-a7ef6b2a32e7?source=rss-4376b4b2e545------2)
 - [I Built a Bookbot with Python](https://medium.com/towards-data-engineering/i-built-a-bookbot-with-python-ad58039df422?source=rss-4376b4b2e545------2)
 - [Building a Flight Deal Finder Project with Python](https://medium.com/towards-data-engineering/building-a-flight-deal-finder-project-with-python-3bfb51cd236e?source=rss-4376b4b2e545------2)
